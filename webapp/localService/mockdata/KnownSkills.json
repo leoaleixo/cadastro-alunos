@@ -1,0 +1,81 @@
+[{
+	"StudentId": "Id 1",
+	"SkillId": 6,
+	"SkillName": "SkillName 1",
+	"__metadata": {
+		"uri": "KnownSkills(StudentId='Id%201',SkillId=6)",
+		"type": "ZT48_10_OVLY_SRV.KnownSkill"
+	}
+}, {
+	"StudentId": "Id 2",
+	"SkillId": 4,
+	"SkillName": "SkillName 2",
+	"__metadata": {
+		"uri": "KnownSkills(StudentId='Id%202',SkillId=4)",
+		"type": "ZT48_10_OVLY_SRV.KnownSkill"
+	}
+}, {
+	"StudentId": "Id 3",
+	"SkillId": 5,
+	"SkillName": "SkillName 3",
+	"__metadata": {
+		"uri": "KnownSkills(StudentId='Id%203',SkillId=5)",
+		"type": "ZT48_10_OVLY_SRV.KnownSkill"
+	}
+}, {
+	"StudentId": "Id 4",
+	"SkillId": 7,
+	"SkillName": "SkillName 4",
+	"__metadata": {
+		"uri": "KnownSkills(StudentId='Id%204',SkillId=7)",
+		"type": "ZT48_10_OVLY_SRV.KnownSkill"
+	}
+}, {
+	"StudentId": "Id 5",
+	"SkillId": 8,
+	"SkillName": "SkillName 5",
+	"__metadata": {
+		"uri": "KnownSkills(StudentId='Id%205',SkillId=8)",
+		"type": "ZT48_10_OVLY_SRV.KnownSkill"
+	}
+}, {
+	"StudentId": "Id 6",
+	"SkillId": 2,
+	"SkillName": "SkillName 6",
+	"__metadata": {
+		"uri": "KnownSkills(StudentId='Id%206',SkillId=2)",
+		"type": "ZT48_10_OVLY_SRV.KnownSkill"
+	}
+}, {
+	"StudentId": "Id 7",
+	"SkillId": 7,
+	"SkillName": "SkillName 7",
+	"__metadata": {
+		"uri": "KnownSkills(StudentId='Id%207',SkillId=7)",
+		"type": "ZT48_10_OVLY_SRV.KnownSkill"
+	}
+}, {
+	"StudentId": "Id 8",
+	"SkillId": 5,
+	"SkillName": "SkillName 8",
+	"__metadata": {
+		"uri": "KnownSkills(StudentId='Id%208',SkillId=5)",
+		"type": "ZT48_10_OVLY_SRV.KnownSkill"
+	}
+}, {
+	"StudentId": "Id 9",
+	"SkillId": 4,
+	"SkillName": "SkillName 9",
+	"__metadata": {
+		"uri": "KnownSkills(StudentId='Id%209',SkillId=4)",
+		"type": "ZT48_10_OVLY_SRV.KnownSkill"
+	}
+}, {
+	"StudentId": "Id 10",
+	"SkillId": 7,
+	"SkillName": "SkillName 10",
+	"__metadata": {
+		"uri": "KnownSkills(StudentId='Id%2010',SkillId=7)",
+		"type": "ZT48_10_OVLY_SRV.KnownSkill"
+	}
+}]
